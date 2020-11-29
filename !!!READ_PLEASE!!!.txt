@@ -1,0 +1,14 @@
+Assuming you have Visual Studio and NodeJs already downloaded. I wanted to mention that within Visual Studio's you must setup the environment by downlaoding a few things.
+
+Within Visual Studio's Terminal you can use this: 
+
+npm install express mongoose body-parser cors nodemon
+npm install nodemon -g      (might help in case of any unexpected error)
+
+
+TEST:
+nodemon     (to see if everthing is fine)
+
+
+USE:
+nodemon server.js     (to be able to use "http://localhost:4000/...")

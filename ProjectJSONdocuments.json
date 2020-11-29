@@ -1,0 +1,757 @@
+[{
+  "_id": "5fbc757e4575bbd76db01abc",
+  "First_Name": "Nathan",
+  "Last_Name": "Lucero",
+  "Role": "Developer",
+  "Email_Address": "nlucero@csustan.edu",
+  "Phone_Number": "209-596-9674",
+  "Date_Of_Birth": "1997-11-10T00:00:01Z",
+  "Gender": "Male",
+  "Status": "Alive"
+},{
+  "_id": "5fbc79664575bbd76db01abf",
+  "First_Name": "Nichole",
+  "Last_Name": "Macdonald",
+  "Role": "Doctor",
+  "Email_Address": "NicholeMacdonald@gmail.com",
+  "Phone_Number": "209-478-9175",
+  "Date_Of_Birth": "1984-04-22T06:31:20Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 132000,
+  "Specialization": "Dermatologist "
+},{
+  "_id": "5fbc7b2f4575bbd76db01ac2",
+  "First_Name": "Kyle",
+  "Last_Name": "Toledo",
+  "Role": "Patient",
+  "Email_Address": "KyleToledo@yahoo.com",
+  "Phone_Number": "720-371-9468",
+  "Date_Of_Birth": "1994-10-15T07:30:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 33000,
+  "Last_Appointment": "2019-06-22T12:00:00Z",
+  "Primary_Doctor": "5fbc79664575bbd76db01abf",
+  "Diagnosis": "Psoriasis",
+  "Treatment": [
+    "Light Therapy"
+  ],
+  "Prescription": [
+    "Corticosteroids",
+    "Retinoids",
+    "Anthralin"
+  ]
+},{
+  "_id": "5fbc9d2be9b30520606705ad",
+  "First_Name": "Dawood",
+  "Last_Name": "Hamer",
+  "Role": "Nurse",
+  "Email_Address": "DawoodHamer@outlook.com",
+  "Phone_Number": "209-200-0837",
+  "Date_Of_Birth": "1976-01-30T14:32:20Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 70000
+},{
+  "_id": "5fbcb195e9b30520606705ae",
+  "First_Name": "Lucas",
+  "Last_Name": "Herman",
+  "Role": "Doctor",
+  "Email_Address": "LucasHerman@gmail.com",
+  "Phone_Number": "209-205-6225",
+  "Date_Of_Birth": "1977-08-17T10:58:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 98000,
+  "Specialization": "Orthopaedist "
+},{
+  "_id": "5fbcb50ee9b30520606705af",
+  "First_Name": "Kasey",
+  "Last_Name": "Lee",
+  "Role": "Patient",
+  "Email_Address": "KaseyLee@bing.com",
+  "Phone_Number": "209-216-9560",
+  "Date_Of_Birth": "1987-05-14T11:02:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 43720,
+  "Last_Appointment": "2017-12-10T12:00:00Z",
+  "Primary_Doctor": "5fbcb195e9b30520606705ae",
+  "Diagnosis": "Fractured Ulna",
+  "Treatment": [
+    "Surgery",
+    "Rehabilitation"
+  ],
+  "Prescription": [
+    "Motrin",
+    "Tylenol"
+  ]
+},{
+  "_id": "5fbcbb2fe9b30520606705b0",
+  "First_Name": "Alissa",
+  "Last_Name": "Kane",
+  "Role": "Doctor",
+  "Email_Address": "AlissaKane@yahoo.com",
+  "Phone_Number": "209-210-6041",
+  "Date_Of_Birth": "1973-02-28T08:27:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 95000,
+  "Specialization": "Allergist"
+},{
+  "_id": "5fbcbd7fe9b30520606705b1",
+  "First_Name": "Lemar",
+  "Last_Name": "Macgregor",
+  "Role": "Patient",
+  "Email_Address": "LemarMacgregor@gmail.com",
+  "Phone_Number": "209-217-1277",
+  "Date_Of_Birth": "1982-02-16T13:01:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 36985,
+  "Last_Appointment": "2020-02-29T16:04:00Z",
+  "Primary_Doctor": "5fbcbb2fe9b30520606705b0",
+  "Diagnosis": "Asthma",
+  "Treatment": [
+    "Inhaler"
+  ],
+  "Prescription": [
+    " Theophylline",
+    "Cinqair",
+    "Tiotropium Bromide"
+  ]
+},{
+  "_id": "5fbcbf9ae9b30520606705b2",
+  "First_Name": "Nadeem",
+  "Last_Name": "Cardenas",
+  "Role": "Patient",
+  "Email_Address": "NadeemCardenas@yahoo.com",
+  "Phone_Number": "209-227-5347",
+  "Date_Of_Birth": "1994-05-09T17:22:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 34514,
+  "Last_Appointment": "2020-07-22T15:11:00Z",
+  "Primary_Doctor": "5fbcb195e9b30520606705ae",
+  "Diagnosis": "Fractured Tibia",
+  "Treatment": [
+    "Surgery",
+    "Rehabilitation"
+  ],
+  "Prescription": [
+    "Motrin",
+    "Tylenol"
+  ]
+},{
+  "_id": "5fbcc11ae9b30520606705b3",
+  "First_Name": "Star",
+  "Last_Name": "Holden",
+  "Role": "Security Guard",
+  "Email_Address": "StarHolden@outlook.com",
+  "Phone_Number": "209-235-6673",
+  "Date_Of_Birth": "1981-03-11T18:01:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 40000
+},{
+  "_id": "5fbcc38de9b30520606705b4",
+  "First_Name": "Ralph",
+  "Last_Name": "Burn",
+  "Role": "Security Guard",
+  "Email_Address": "RalphBurn@yahoo.com",
+  "Phone_Number": "209-240-9535",
+  "Date_Of_Birth": "1972-09-15T01:09:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 37000
+},{
+  "_id": "5fbcc46de9b30520606705b5",
+  "First_Name": "Suraj",
+  "Last_Name": "Valenzuela",
+  "Role": "Security Guard",
+  "Email_Address": "SurajValenzuela@yahoo.com",
+  "Phone_Number": "209-549-0516",
+  "Date_Of_Birth": "1992-01-03T19:49:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 36000
+},{
+  "_id": "5fbcc551e9b30520606705b6",
+  "First_Name": "Rima",
+  "Last_Name": "Sullivan",
+  "Role": "Security Guard",
+  "Email_Address": "RimaSullivan@aol.com",
+  "Phone_Number": "210-204-7091",
+  "Date_Of_Birth": "1991-06-01T21:13:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 36000
+},{
+  "_id": "5fbcc8bae9b30520606705b7",
+  "First_Name": "Macauley",
+  "Last_Name": "Haney",
+  "Role": "Security Guard",
+  "Email_Address": "MacauleyHaney@gmail.com",
+  "Phone_Number": "480-200-5196",
+  "Date_Of_Birth": "1995-07-13T23:49:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 36500
+},{
+  "_id": "5fbcca74e9b30520606705b9",
+  "First_Name": "Bartlomiej",
+  "Last_Name": "Holloway",
+  "Role": "Security Guard",
+  "Email_Address": "BartlomiejHolloway@gmail.com",
+  "Phone_Number": "209-349-6790",
+  "Date_Of_Birth": "1991-02-23T17:59:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 35000
+},{
+  "_id": "5fbcda08e9b30520606705ba",
+  "First_Name": "Chace",
+  "Last_Name": "Davis",
+  "Role": "Security Guard",
+  "Email_Address": "ChaceDavis@yahoo.com",
+  "Phone_Number": "209-341-3168",
+  "Date_Of_Birth": "1989-04-30T21:33:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 37000
+},{
+  "_id": "5fbcda95e9b30520606705bb",
+  "First_Name": "Hussain",
+  "Last_Name": "Li",
+  "Role": "Security Guard",
+  "Email_Address": "HussainLi@gmail.com",
+  "Phone_Number": "209-341-3168",
+  "Date_Of_Birth": "1985-10-10T13:17:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 36750
+},{
+  "_id": "5fbcdb96e9b30520606705bc",
+  "First_Name": "Macey",
+  "Last_Name": "Day",
+  "Role": "Accountant",
+  "Email_Address": "MaceyDay@aol.com",
+  "Phone_Number": "209-341-3168",
+  "Date_Of_Birth": "1980-08-01T07:49:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 46000
+},{
+  "_id": "5fbcdc5ce9b30520606705bd",
+  "First_Name": "Adelina",
+  "Last_Name": "Chapman",
+  "Role": "Accountant",
+  "Email_Address": "AdelinaChapman@yahoo.com",
+  "Phone_Number": "212-202-5889",
+  "Date_Of_Birth": "1975-09-13T19:23:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 48000
+},{
+  "_id": "5fbcdd6de9b30520606705be",
+  "First_Name": "Latisha",
+  "Last_Name": "Whitfield",
+  "Role": "Accountant",
+  "Email_Address": "LatishaWhitfield@yahoo.com",
+  "Phone_Number": "239-280-0149",
+  "Date_Of_Birth": "1976-01-07T11:04:12Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 48500
+},{
+  "_id": "5fbcdff8e9b30520606705bf",
+  "First_Name": "Dwayne",
+  "Last_Name": "Jennings",
+  "Role": "Doctor",
+  "Email_Address": "DwayneJennings@gmail.com",
+  "Phone_Number": "229-202-3211",
+  "Date_Of_Birth": "1965-11-05T11:02:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 325000,
+  "Specialization": "Neurosurgeon "
+},{
+  "_id": "5fbce209e9b30520606705c0",
+  "First_Name": "Audrey",
+  "Last_Name": "Rocha",
+  "Role": "Patient",
+  "Email_Address": "AudreyRocha@yahoo.com",
+  "Phone_Number": "480-227-5670",
+  "Date_Of_Birth": "1960-08-14T20:44Z",
+  "Gender": "Non-Binary",
+  "Status": "Deceased",
+  "Salary": 98751,
+  "Last_Appointment": "2018-04-18T06:32:00Z",
+  "Primary_Doctor": "5fbcdff8e9b30520606705bf",
+  "Diagnosis": "Brain Tumor",
+  "Treatment": [
+    "Surgery",
+    "Radiation Therapy",
+    "Chemotherapy"
+  ],
+  "Prescription": [
+    "Afinitor ",
+    "Carmustine",
+    "Lomustine",
+    "Mvasi ",
+    "Temozolomide"
+  ]
+},{
+  "_id": "5fbce355e9b30520606705c1",
+  "First_Name": "Sylvia",
+  "Last_Name": "Patton",
+  "Role": "Patient",
+  "Email_Address": "SylviaPatton@yahoo.com",
+  "Phone_Number": "209-217-9764",
+  "Date_Of_Birth":  "1963-06-17T23:07:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 102221,
+  "Last_Appointment": "2020-08-19T03:39:00Z",
+  "Primary_Doctor": "5fbcdff8e9b30520606705bf",
+  "Diagnosis": "Brain Tumor",
+  "Treatment": [
+    "Surgery",
+    "Radiation Therapy",
+    "Chemotherapy"
+  ],
+  "Prescription": [
+    "Afinitor ",
+    "Carmustine",
+    "Lomustine",
+    "Mvasi ",
+    "Temozolomide"
+  ]
+},{
+  "_id": "5fbce481e9b30520606705c2",
+  "First_Name": "Gino",
+  "Last_Name": "Mendez",
+  "Role": "Doctor",
+  "Email_Address": "GinoMendez@gmail.com",
+  "Phone_Number": "209-322-3484",
+  "Date_Of_Birth": "1973-12-31T15:22:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 132000,
+  "Specialization": "Oncologist "
+},{
+  "_id": "5fbce5c6e9b30520606705c3",
+  "First_Name": "Donovan",
+  "Last_Name": "Simpson",
+  "Role": "Patient",
+  "Email_Address": "DonovanSimpson@bing.com",
+  "Phone_Number": "209-217-9764",
+  "Date_Of_Birth": "1986-06-17T23:07:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 85564,
+  "Last_Appointment": "2020-11-16T08:28:00Z",
+  "Primary_Doctor": "5fbce481e9b30520606705c2",
+  "Diagnosis": "Thyroid Cancer",
+  "Treatment": [
+    "Surgery",
+    "Harmone Therapy",
+    "Radioactive Iodine",
+    "Chemotherapy",
+    "Radiation Therapy"
+  ],
+  "Prescription": [
+    "Cabozantinib-S-Malate",
+    "Doxorubicin Hydrochloride",
+    "Lenvatinib Mesylate",
+    "Selpercatinib ",
+    "Trametinib"
+  ]
+},{
+  "_id": "5fbce79fe9b30520606705c4",
+  "First_Name": "Freda",
+  "Last_Name": "Kramer",
+  "Role": "Doctor",
+  "Email_Address": "FredaKramer@gmail.com",
+  "Phone_Number": "209-342-8642",
+  "Date_Of_Birth": "1975-09-19T04:48:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 132000,
+  "Specialization": "Oncologist "
+},{
+  "_id": "5fbcea00e9b30520606705c5",
+  "First_Name": "Leo",
+  "Last_Name": "Valdez",
+  "Role": "Patient",
+  "Email_Address": "LeoValdez@yahoo.com",
+  "Phone_Number": "213-304-0145",
+  "Date_Of_Birth": "1990-01-01T23:59:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 74812,
+  "Last_Appointment": "2018-07-24T21:00:33Z",
+  "Primary_Doctor": "5fbce79fe9b30520606705c4",
+  "Diagnosis": "Kidney Cancer",
+  "Treatment": [
+    "Surgery",
+    "Harmone Therapy",
+    "Radioactive Iodine",
+    "Chemotherapy",
+    "Radiation Therapy"
+  ],
+  "Prescription": [
+    "Cabozantinib-S-Malate",
+    "Doxorubicin Hydrochloride",
+    "Lenvatinib Mesylate",
+    "Selpercatinib ",
+    "Trametinib"
+  ]
+},{
+  "_id": "5fbf67cb8b8a0a13c4588131",
+  "First_Name": "Zhang",
+  "Last_Name": "Chieu",
+  "Role": "Doctor",
+  "Email_Address": "ZhangChieu@gmail.com",
+  "Phone_Number": "213-618-9921",
+  "Date_Of_Birth": "1961-07-04T17:18:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 415000,
+  "Specialization": "Cadiologist "
+},{
+  "_id": "5fbf69438b8a0a13c4588132",
+  "First_Name": "Pasquale ",
+  "Last_Name": "Pugh",
+  "Role": "Doctor",
+  "Email_Address": "PasqualePugh@gmail.com",
+  "Phone_Number": "323-399-4189",
+  "Date_Of_Birth": "1960-07-15T07:13:50Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 175000,
+  "Specialization": "Pediatrician "
+},{
+  "_id": "5fbf69d78b8a0a13c4588133",
+  "First_Name": "Megan  ",
+  "Last_Name": "Wong",
+  "Role": "Doctor",
+  "Email_Address": "MeganWong@gmail.com",
+  "Phone_Number": "209-932-2697",
+  "Date_Of_Birth": "1966-12-14T10:29:50Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 175000,
+  "Specialization": "Pediatrician "
+},{
+  "_id": "5fbf6cee8b8a0a13c4588134",
+  "First_Name": "Dusty ",
+  "Last_Name": "Jenkins",
+  "Role": "Patient",
+  "Email_Address": "DustyJenkins@yahoo.com",
+  "Phone_Number": "209-903-4528",
+  "Date_Of_Birth": "1976-04-01T20:33:07Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 37500,
+  "Last_Appointment": "2016-07-21T21:00:33Z",
+  "Primary_Doctor": "5fbf67cb8b8a0a13c4588131",
+  "Diagnosis": "Type 2 Diabetes",
+  "Treatment": [
+    "Weight Loss Program",
+    "Diet",
+    "Monitoring of Blood Sugar"
+  ],
+  "Prescription": [
+    "Insulin",
+    "Prandin",
+    "Januvia",
+    "Invokana",
+    "Metformin"
+  ]
+},{
+  "_id": "5fbf6f4e8b8a0a13c4588135",
+  "First_Name": "Beverley ",
+  "Last_Name": "Reed",
+  "Role": "Patient",
+  "Email_Address": "BeverleyReed@yahoo.com",
+  "Phone_Number": "209-873-6852",
+  "Date_Of_Birth": "2002-03-05T01:19:03Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 42000,
+  "Last_Appointment": "2019-08-06T23:44:13Z",
+  "Primary_Doctor": "5fbf67cb8b8a0a13c4588131",
+  "Diagnosis": "Type 1 Diabetes",
+  "Treatment": [
+    "Weight Loss Program",
+    "Diet",
+    "Monitoring of Carbohydrates",
+    "Montoring of Protein Count",
+    "Monitoring of Blood Sugar"
+  ],
+  "Prescription": [
+    "Insulin"
+  ]
+},{
+  "_id": "5fbf72c28b8a0a13c4588136",
+  "First_Name": "Sonya  ",
+  "Last_Name": "Wilkins",
+  "Role": "Patient",
+  "Email_Address": "SonyaWilkins@bing.com",
+  "Phone_Number": "561-667-7076",
+  "Date_Of_Birth": "1985-05-23T01:09:11Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 63500,
+  "Last_Appointment": "2020-11-10T20:49:59Z",
+  "Primary_Doctor": "5fbf69438b8a0a13c4588132",
+  "Diagnosis": "COVID-19",
+  "Treatment": [
+    "Get Rest",
+    "Stay Hydrated",
+    "Frequently Clean Hands ",
+    "Monitor Daily Symptoms"
+  ],
+  "Prescription": [
+    "Acetaminophen ",
+    "Ibuprofen "
+  ]
+},{
+  "_id": "5fbf74668b8a0a13c4588137",
+  "First_Name": "Deborah   ",
+  "Last_Name": "Estrada",
+  "Role": "Patient",
+  "Email_Address": "DeborahEstrada@yahoo.com",
+  "Phone_Number": "209-226-1439",
+  "Date_Of_Birth":"1952-09-14T11:59:17Z",
+  "Gender": "Female",
+  "Status": "Deceased",
+  "Salary": 27750,
+  "Last_Appointment": "2020-04-08T11:37:25Z",
+  "Primary_Doctor": "5fbf69438b8a0a13c4588132",
+  "Diagnosis": "COVID-19",
+  "Treatment": [
+    "Get Rest",
+    "Stay Hydrated",
+    "Frequently Clean Hands ",
+    "Monitor Daily Symptoms"
+  ],
+  "Prescription": [
+    "Acetaminophen ",
+    "Ibuprofen "
+  ]
+},{
+  "_id": "5fbf76208b8a0a13c4588138",
+  "First_Name": "Isreal    ",
+  "Last_Name": "Eaton",
+  "Role": "Patient",
+  "Email_Address": "IsrealEaton@gmail.com",
+  "Phone_Number": "209-643-0403",
+  "Date_Of_Birth": "1949-08-25T21:39:47Z",
+  "Gender": "Male",
+  "Status": "Deceased",
+  "Salary": 53250,
+  "Last_Appointment": "2020-06-15T02:49:55Z",
+  "Primary_Doctor": "5fbf69d78b8a0a13c4588133",
+  "Diagnosis": "COVID-19",
+  "Treatment": [
+    "Get Rest",
+    "Stay Hydrated",
+    "Frequently Clean Hands ",
+    "Monitor Daily Symptoms"
+  ],
+  "Prescription": [
+    "Acetaminophen ",
+    "Ibuprofen "
+  ]
+},{
+  "_id": "5fbf77558b8a0a13c4588139",
+  "First_Name": "Emil     ",
+  "Last_Name": "Burke",
+  "Role": "Patient",
+  "Email_Address": "EmilBurke@gmail.com",
+  "Phone_Number": "209-784-0657",
+  "Date_Of_Birth": "1970-01-01T00:00:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 37500,
+  "Last_Appointment": "2020-06-15T02:49:55Z",
+  "Primary_Doctor":  "5fbf69d78b8a0a13c4588133",
+  "Diagnosis": "COVID-19",
+  "Treatment": [
+    "Get Rest",
+    "Stay Hydrated",
+    "Frequently Clean Hands ",
+    "Monitor Daily Symptoms"
+  ],
+  "Prescription": [
+    "Acetaminophen ",
+    "Ibuprofen "
+  ]
+},{
+  "_id": "5fbffe668b8a0a13c458813a",
+  "First_Name": "Reginald ",
+  "Last_Name": "Hopkins",
+  "Role": "Receptionist",
+  "Email_Address": "ReginaldHopkins@yahoo.com",
+  "Phone_Number": "209-823-6301",
+  "Date_Of_Birth": "1970-01-01T00:00:00Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 33000
+},{
+  "_id": "5fbfff2f8b8a0a13c458813b",
+  "First_Name": "Mia  ",
+  "Last_Name": "Rojas",
+  "Role": "Receptionist",
+  "Email_Address": "MiaRojas@aol.com",
+  "Phone_Number": "323-554-6136",
+  "Date_Of_Birth": "1978-03-07T00:10:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 33000
+},{
+  "_id": "5fbfffd18b8a0a13c458813c",
+  "First_Name": "Eugenia  ",
+  "Last_Name": "Pace",
+  "Role": "Receptionist",
+  "Email_Address": "EugeniaPace@gmail.com",
+  "Phone_Number": "808-228-2476",
+  "Date_Of_Birth": "1989-03-08T00:57:00Z",
+  "Gender": "Non-Binary",
+  "Status": "Deceased",
+  "Salary": 33000
+},{
+  "_id": "5fc000768b8a0a13c458813e",
+  "First_Name": "Linda   ",
+  "Last_Name": "Rollins",
+  "Role": "Receptionist",
+  "Email_Address": "LindaRollins@gmail.com",
+  "Phone_Number": "480-216-9590",
+  "Date_Of_Birth": "1990-01-01T00:42:00Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 33000
+},{
+  "_id": "5fc0033b8b8a0a13c458813f",
+  "First_Name": "Mohammed ",
+  "Last_Name": "Eaton",
+  "Role": "Patient",
+  "Email_Address": "MohammedEaton@bing.com",
+  "Phone_Number": "209-380-2268",
+  "Date_Of_Birth": "2004-08-11T16:51:00Z",
+  "Gender": "Male",
+  "Status": "Deceased",
+  "Salary": 67850,
+  "Last_Appointment": "2020-11-20T12:35:00Z",
+  "Primary_Doctor": "5fbce481e9b30520606705c2",
+  "Diagnosis": "Breast Cancer",
+  "Treatment": [
+    "Surgery",
+    "Harmone Therapy",
+    "Radioactive Iodine",
+    "Chemotherapy",
+    "Radiation Therapy"
+  ]
+},{
+  "_id": "5fc1e1146ba649b6c2637d7d",
+  "First_Name": "Amrita",
+  "Last_Name": "Mina",
+  "Role": "Nurse",
+  "Email_Address": "AmritaMina@gmail.com",
+  "Phone_Number": "213-260-5751",
+  "Date_Of_Birth": "1987-07-03T04:52:24Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 62500
+},{
+  "_id": "5fc1e1fd6ba649b6c2637d7e",
+  "First_Name": "Clelia",
+  "Last_Name": "Jyothi",
+  "Role": "Nurse",
+  "Email_Address": "CleliaJyothi@gmail.com",
+  "Phone_Number": "213-260-5751",
+  "Date_Of_Birth": "1990-01-10T22:39:11Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 60000
+},{
+  "_id": "5fc1e2676ba649b6c2637d7f",
+  "First_Name": "Clelia",
+  "Last_Name": "Jyothi",
+  "Role": "Nurse",
+  "Email_Address": "CleliaJyothi@gmail.com",
+  "Phone_Number": "213-244-7253",
+  "Date_Of_Birth": "1980-11-17T11:08:22Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 62500
+},{
+  "_id": "5fc1e2cb6ba649b6c2637d80",
+  "First_Name": "Gunvor",
+  "Last_Name": "Eva",
+  "Role": "Nurse",
+  "Email_Address": "GunvorEva@gmail.com",
+  "Phone_Number": "209-303-7534",
+  "Date_Of_Birth": "1985-09-19T19:18:02Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 62500
+},{
+  "_id": "5fc1e3636ba649b6c2637d81",
+  "First_Name": "Assunta",
+  "Last_Name": "Mariana",
+  "Role": "Nurse",
+  "Email_Address": "AssuntaMariana@gmail.com",
+  "Phone_Number": "209-522-2683",
+  "Date_Of_Birth": "1989-07-02T03:08:02Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 60000
+},{
+  "_id": "5fc1e42b6ba649b6c2637d82",
+  "First_Name": "Ihor ",
+  "Last_Name": "Betto",
+  "Role": "Nurse",
+  "Email_Address": "IhorBetto@outlook.com",
+  "Phone_Number": "209-363-9123",
+  "Date_Of_Birth": "1978-06-19T21:22:16Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 69000
+},{
+  "_id": "5fc1e501a7d294abc74e451f",
+  "First_Name": "Xolani ",
+  "Last_Name": "Serverus",
+  "Role": "Nurse",
+  "Email_Address": "XolaniServerus@yahoo.com",
+  "Phone_Number": "209-967-3744",
+  "Date_Of_Birth": "1977-10-31T11:32:10Z",
+  "Gender": "Male",
+  "Status": "Alive",
+  "Salary": 70000
+},{
+  "_id": "5fc1e571a7d294abc74e4520",
+  "First_Name": "Beverly ",
+  "Last_Name": "Tshering",
+  "Role": "Nurse",
+  "Email_Address": "BeverlyTshering@yahoo.com",
+  "Phone_Number": "209-236-1207",
+  "Date_Of_Birth": "1979-01-05T03:18:17Z",
+  "Gender": "Non-Binary",
+  "Status": "Alive",
+  "Salary": 67000
+},{
+  "_id": "5fc1e640a7d294abc74e4521",
+  "First_Name": "Kanda ",
+  "Last_Name": "Yoshiko",
+  "Role": "Nurse",
+  "Email_Address": "KandaYoshiko@yahoo.com",
+  "Phone_Number": "239-247-2324",
+  "Date_Of_Birth": "1983-12-25T03:18:17Z",
+  "Gender": "Female",
+  "Status": "Alive",
+  "Salary": 62500
+}]

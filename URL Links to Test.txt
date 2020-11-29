@@ -1,0 +1,29 @@
+INSERT (POST)
+http://localhost:4000/records/
+
+
+
+READING (GET)
+http://localhost:4000/records/
+
+http://localhost:4000/records/readone
+
+http://localhost:4000/records/readsalaries
+
+http://localhost:4000/records/doctors
+
+http://localhost:4000/records/patients
+
+http://localhost:4000/records/deceased
+
+http://localhost:4000/records/birthdayafter
+
+
+
+UPDATE (PATCH)
+http://localhost:4000/records/fixrecord
+
+
+
+DELETE
+http://localhost:4000/records/deleterecord

@@ -1,0 +1,6 @@
+C:\Users\Dragon Slayer\Desktop\VisualStudioProject\CS4280_Project2\obj\Debug\CS4280_Project2.njsprojAssemblyReference.cache
+C:\Users\Dragon Slayer\Desktop\VisualStudioProject\CS4280_Project2\obj\Debug\CS4280_Project2.njsproj.CoreCompileInputs.cache
+C:\Users\Dragon Slayer\Desktop\VisualStudioProject\CS4280_Project2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Dragon Slayer\Desktop\CS4280_project_NathanLucero_codes\CS4280_Project2\obj\Debug\CS4280_Project2.njsprojAssemblyReference.cache
+C:\Users\Dragon Slayer\Desktop\CS4280_project_NathanLucero_codes\CS4280_Project2\obj\Debug\CS4280_Project2.njsproj.CoreCompileInputs.cache
+C:\Users\Dragon Slayer\Desktop\CS4280_project_NathanLucero_codes\CS4280_Project2\bin\Microsoft.NodejsTools.WebRole.dll
