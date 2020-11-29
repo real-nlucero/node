@@ -5,9 +5,12 @@ const cors = require("cors");
 
 const app = express();
 
-var port = 4000;
+const port = process.env.port || 4000;
 
-app.use(cors({ origin: "http://localhost:" + port }))
+app.listen(port, () => {
+    console.log("Running");
+});
+//app.use(cors({ origin: "http://localhost:" + port }))
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
